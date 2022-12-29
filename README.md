@@ -11,7 +11,7 @@ Simple command line utility to convert TP-Link modem/router backup config files 
 ````
 MIT License
 
-Copyright (c) 2022 Toxinum.
+Copyright (c) 2022 Bangla Codec.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
